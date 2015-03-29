@@ -1,0 +1,9 @@
+This is my attempt at PCB design in KiCad.
+
+A board with ATMEGA32, an ethernet conntroller, SD card slot, some LEDs, 
+buttons and GPIO connectors.
+
+I've not tried if it works at all yet.
+
+Licensed under the terms of CC0:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
