@@ -1,0 +1,255 @@
+Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Sun 29 Mar 2015 17:37:02 CEST
+
+BeginCmp
+TimeStamp = /550425F7;
+Reference = C1;
+ValeurCmp = 10pF;
+IdModule  = Discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5504260B;
+Reference = C2;
+ValeurCmp = 10pF;
+IdModule  = Discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5504269B;
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D7.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55040A35;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D7.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55041BD9;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D7.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55047C5C;
+Reference = C6;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D7.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55047C48;
+Reference = C7;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D7.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5505CEC9;
+Reference = C8;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D7.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55044828;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5504485A;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /55042945;
+Reference = IC1;
+ValeurCmp = ATMEGA32-P;
+IdModule  = Sockets_DIP:DIP-40__600;
+EndCmp
+
+BeginCmp
+TimeStamp = /55041BBF;
+Reference = J1;
+ValeurCmp = ETHERNET;
+IdModule  = meth:RJ45_TRANSFO2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5505D988;
+Reference = L1;
+ValeurCmp = FERRITE BEAD;
+IdModule  = Choke_Axial_ThroughHole:Choke_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5505717D;
+Reference = P1;
+ValeurCmp = GPIO1;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55056C73;
+Reference = P2;
+ValeurCmp = GPIO2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /550433FA;
+Reference = P3;
+ValeurCmp = ISP;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /55042BB4;
+Reference = P4;
+ValeurCmp = UART;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /550433E6;
+Reference = P5;
+ValeurCmp = SD CARD;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x07;
+EndCmp
+
+BeginCmp
+TimeStamp = /55047F1E;
+Reference = P6;
+ValeurCmp = POWER;
+IdModule  = meth:DS214B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5504583D;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5504640D;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5504483C;
+Reference = R3;
+ValeurCmp = 50;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55044860;
+Reference = R4;
+ValeurCmp = 50;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /550431B9;
+Reference = R5;
+ValeurCmp = 270;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55042687;
+Reference = R6;
+ValeurCmp = 2.32k;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /550430A7;
+Reference = R8;
+ValeurCmp = 50;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55040CCC;
+Reference = R9;
+ValeurCmp = 49.9;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55040CB8;
+Reference = R10;
+ValeurCmp = 49.9;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /550430BB;
+Reference = R11;
+ValeurCmp = 50;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55041BF1;
+Reference = R12;
+ValeurCmp = 49.9;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55041BEB;
+Reference = R13;
+ValeurCmp = 49.9;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /550B3F76;
+Reference = SW1;
+ValeurCmp = DUAL_SWITCH_INV;
+IdModule  = meth:PB_22E18;
+EndCmp
+
+BeginCmp
+TimeStamp = /550B3F8A;
+Reference = SW2;
+ValeurCmp = DUAL_SWITCH_INV;
+IdModule  = meth:PB_22E18;
+EndCmp
+
+BeginCmp
+TimeStamp = /5503FB57;
+Reference = U1;
+ValeurCmp = ENC28J60;
+IdModule  = Sockets_DIP:DIP-28__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55047BFE;
+Reference = U2;
+ValeurCmp = LM1084IT-3.3/NOPB;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = /550425C5;
+Reference = X1;
+ValeurCmp = 25MHz;
+IdModule  = Crystals:Crystal_HC52-U_Vertical;
+EndCmp
+
+EndListe
