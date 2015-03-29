@@ -1,0 +1,5 @@
+.sw?
+*.bak
+*.dsn
+*.kicad_pcb-bak
+*.pro
